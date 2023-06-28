@@ -1,2 +1,3 @@
 git+https://github.com/openai/whisper.git
 youtube-dl
+googletrans==4.0.0-rc1
